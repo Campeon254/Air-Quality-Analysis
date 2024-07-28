@@ -19,8 +19,8 @@ This project analyzes Air Quality Index (AQI) data from various cities around th
 To get started, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/aqi-analysis.git
-cd aqi-analysis
+git clone [https://github.com/Campeon254/Air-Quality-Analysis]
+cd Air-Quality-Analysis
 pip install -r requirements.txt
 ```
 
