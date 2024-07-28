@@ -77,5 +77,3 @@ We welcome contributions! Please fork the repository and submit a pull request w
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Feel free to customize this README to better fit your project's needs. Happy coding!
