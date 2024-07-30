@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 We use the OpenAQ API to collect AQI data from various cities. The dataset includes key pollutants such as PM2.5, PM10, CO, NO2, SO2, and O3. You can find the API documentation [here](https://docs.openaq.org/).
 
-### How to Access the Data
+## How to Access the Data
 
 - **OpenAQ API:** Use the API to filter data by date, location, and pollutant.
 - **Downloadable Files:** OpenAQ provides periodic data dumps available for download [here](https://openaq.org/#/download).
