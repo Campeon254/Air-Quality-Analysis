@@ -1,4 +1,4 @@
-location_id,location_name,parameter,value,unit,datetimeUtc,datetimeLocal,timezone,latitude,longitude,country_iso,isMobile,isMonitor,owner_name,provider
+location_id,location_name,parameter,value,unit,DatetimeUtc,DatetimeLocal,timezone,latitude,longitude,country_iso,is_Mobile,is_Monitor,owner_name,provider
 1364,Hope,co,18.82,µg/m³,2024-01-01 01:00:00+00:00,2023-12-31 17:00:00-08:00,America/Vancouver,49.36972,-121.49944,,,,Unknown Governmental Organization,AirNow
 1364,Hope,co,28.22,µg/m³,2024-01-01 02:00:00+00:00,2023-12-31 18:00:00-08:00,America/Vancouver,49.36972,-121.49944,,,,Unknown Governmental Organization,AirNow
 1364,Hope,co,13.92,µg/m³,2024-01-01 03:00:00+00:00,2023-12-31 19:00:00-08:00,America/Vancouver,49.36972,-121.49944,,,,Unknown Governmental Organization,AirNow
