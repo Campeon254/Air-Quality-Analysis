@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyzes Air Quality Index (AQI) data from various cities around the world. The primary goals are to identify trends, compare air quality across different regions, and investigate the impact of certain events (like holidays, wildfires, or policy changes) on air quality. The project leverages Python's pandas for data manipulation, matplotlib and seaborn for data visualization, and sklearn for basic predictive modeling.
+This project analyzes the Air Quality Index (AQI) data from various cities around the world. The primary goals are to identify trends, compare air quality across different regions, and investigate the impact of certain events (like holidays, wildfires, or policy changes) on air quality. The project leverages Python's pandas for data manipulation, matplotlib and seaborn for data visualization, and sklearn for basic predictive modeling.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -42,7 +42,7 @@ Once the data is collected, we perform the following tasks:
 - **Time-Series Analysis:** Analyze AQI trends over time for selected cities.
 - **Comparative Analysis:** Compare AQI data across different cities or regions to identify areas with the best and worst air quality.
 
-## Visualization and Interpretation.
+## Visualization and Interpretation
 
 We create compelling visualizations to represent our findings using matplotlib and seaborn. These include:
 
