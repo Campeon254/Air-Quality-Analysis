@@ -42,7 +42,7 @@ Once the data is collected, we perform the following tasks:
 - **Time-Series Analysis:** Analyze AQI trends over time for selected cities.
 - **Comparative Analysis:** Compare AQI data across different cities or regions to identify areas with the best and worst air quality.
 
-## Visualization and Interpretation.
+## Visualization and Interpretation
 
 We create compelling visualizations to represent our findings using matplotlib and seaborn. These include:
 
