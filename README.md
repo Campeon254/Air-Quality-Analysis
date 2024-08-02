@@ -63,7 +63,7 @@ We then interpret the results and discuss potential reasons behind air quality t
 ### Key Features
 
 - **Global Coverage:** Data from thousands of stations worldwide.
-- **Pollutants Measured:** PM2.5, PM10, CO, NO2, SO2, O3, and more.
+- **Pollutants Measured:** PM2.5, PM10, CO, NO2,O3 and more.
 - **Open and Free:** Available for educational and research purposes.
 
 ### Access the Data
