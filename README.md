@@ -1,4 +1,21 @@
 # Analyzing Global Air Quality Index (AQI) Data
+## Contributers
+
+This was a combined collaborations between my group.
+The group members included:
+
+Snit Teshome, 670552
+
+Whitney Gituara, 671528
+
+Selmah Tzindori, 669602
+
+Andy Hadulo, 668059
+
+Ogutu Rufinus, 670827
+
+Calvin Gacheru, 670035
+
 
 ## Overview
 
@@ -72,22 +89,6 @@ We then interpret the results and discuss potential reasons behind air quality t
 - **API Access:** Programmatic access to the data via OpenAQ API.
 - **Data Dumps:** Periodic data dumps available for download from the OpenAQ website or GitHub.
 
-## Contributers
-
-This was a combined collaborations between my group.
-The group members included:
-
-Snit Teshome, 670552
-
-Whitney Gituara, 671528
-
-Selmah Tzindori, 669602
-
-Andy Hadulo, 668059
-
-Ogutu Rufinus, 670827
-
-Calvin Gacheru, 670035
 
 ## Contributing
 
