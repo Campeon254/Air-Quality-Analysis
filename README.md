@@ -35,6 +35,10 @@ We use the OpenAQ API to collect AQI data from various cities. The dataset inclu
 - **OpenAQ API:** Use the API to filter data by date, location, and pollutant.
 - **Downloadable Files:** OpenAQ provides periodic data dumps available for download [here](https://openaq.org/#/download).
 
+## The file code for this project is named "Analysis (combined cities).ipynb " you can acess it from files _To run succesfully the code,
+
+    go to code>>copy the URL>>open VsCode>>shift+ctrl+p>>clone>>paste the URL>>enter>>select the https://github.com/Campeon254/Air-Quality-Analysis(The repository URL)>>Select local folder>>Make changes and commits>>Push Changes to gitHub.
+
 ## Data Exploration and Analysis
 
 Once the data is collected, we perform the following tasks:
