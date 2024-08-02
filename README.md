@@ -77,17 +77,17 @@ We then interpret the results and discuss potential reasons behind air quality t
 This was a combined collaborations between my group.
 The group members included:
 
-Snit Teshome,                                            670552
+Snit Teshome, 670552
 
-Whitney Gituara,                                         671528
+Whitney Gituara, 671528
 
-Selmah Tzindori,                                         669602
+Selmah Tzindori, 669602
 
-Andy Hadulo,                                             668059
+Andy Hadulo, 668059
 
-Ogutu Rufinus,                                           670827
+Ogutu Rufinus, 670827
 
-Calvin Gacheru,                                          670035
+Calvin Gacheru, 670035
 
 ## Contributing
 
