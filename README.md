@@ -1,4 +1,5 @@
 # Analyzing Global Air Quality Index (AQI) Data
+
 ## Overview
 
 This project analyzes the Air Quality Index (AQI) data from various cities around the world. The primary goals are to identify trends, compare air quality across different regions, and investigate the impact of certain events (like holidays, wildfires, or policy changes) on air quality. The project leverages Python's pandas for data manipulation, matplotlib and seaborn for data visualization, and sklearn for basic predictive modeling.
@@ -34,9 +35,10 @@ We use the OpenAQ API to collect AQI data from various cities. The dataset inclu
 - **OpenAQ API:** Use the API to filter data by date, location, and pollutant.
 - **Downloadable Files:** OpenAQ provides periodic data dumps available for download [here](https://openaq.org/#/download).
 
-## The file code for this project is named "Analysis (combined cities).ipynb " you can acess it from files _To run succesfully the code,
+## The file code for this project is named "Analysis (combined cities).ipynb " you can acess it from files _To run succesfully the code
 
-    go to code>>copy the URL>>open VsCode>>shift+ctrl+p>>clone>>paste the URL>>enter>>select the https://github.com/Campeon254/Air-Quality-Analysis(The repository URL)>>Select local folder>>Make changes and commits>>Push Changes to gitHub.
+go to code>>copy the URL>>open VsCode>>shift+ctrl+p>>clone>>paste the URL>>enter>>select the https://
+github.com/Campeon254/Air-Quality-Analysis(The repository URL)>>Select local folder>>Make changes and commits>>Push Changes to gitHub.
 
 ## Data Exploration and Analysis
 
@@ -91,7 +93,6 @@ Andy Hadulo, 668059
 Ogutu Rufinus, 670827
 
 Calvin Gacheru, 670035
-
 
 ## Contributing
 
