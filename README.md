@@ -1,22 +1,4 @@
 # Analyzing Global Air Quality Index (AQI) Data
-## Contributers
-
-This was a combined collaborations between my group.
-The group members included:
-
-Snit Teshome, 670552
-
-Whitney Gituara, 671528
-
-Selmah Tzindori, 669602
-
-Andy Hadulo, 668059
-
-Ogutu Rufinus, 670827
-
-Calvin Gacheru, 670035
-
-
 ## Overview
 
 This project analyzes the Air Quality Index (AQI) data from various cities around the world. The primary goals are to identify trends, compare air quality across different regions, and investigate the impact of certain events (like holidays, wildfires, or policy changes) on air quality. The project leverages Python's pandas for data manipulation, matplotlib and seaborn for data visualization, and sklearn for basic predictive modeling.
@@ -88,6 +70,23 @@ We then interpret the results and discuss potential reasons behind air quality t
 
 - **API Access:** Programmatic access to the data via OpenAQ API.
 - **Data Dumps:** Periodic data dumps available for download from the OpenAQ website or GitHub.
+
+## Contributers
+
+This was a combined collaborations between my group.
+The group members included:
+
+Snit Teshome, 670552
+
+Whitney Gituara, 671528
+
+Selmah Tzindori, 669602
+
+Andy Hadulo, 668059
+
+Ogutu Rufinus, 670827
+
+Calvin Gacheru, 670035
 
 
 ## Contributing
