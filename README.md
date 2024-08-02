@@ -5,12 +5,14 @@
 This project analyzes the Air Quality Index (AQI) data from various cities around the world. The primary goals are to identify trends, compare air quality across different regions, and investigate the impact of certain events (like holidays, wildfires, or policy changes) on air quality. The project leverages Python's pandas for data manipulation, matplotlib and seaborn for data visualization, and sklearn for basic predictive modeling.
 
 ## Table of Contents
+
 - [Installation](#installation)
 - [Data Collection](#data-collection)
 - [Data Exploration and Analysis](#data-exploration-and-analysis)
 - [Visualization and Interpretation](#visualization-and-interpretation)
 - [Optional Extensions](#optional-extensions)
 - [Dataset](#dataset)
+- [Contributers](#contributers)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -26,7 +28,7 @@ pip install -r requirements.txt
 
 ## Data Collection
 
-We use the OpenAQ API to collect AQI data from various cities. The dataset includes key pollutants such as PM2.5, PM10, CO, NO2, SO2, and O3. You can find the API documentation [here](https://docs.openaq.org/).
+We use the OpenAQ API to collect AQI data from various cities. The dataset includes key pollutants such as PM2.5, PM10, CO, NO2,and O3. You can find the API documentation [here](https://docs.openaq.org/).
 
 ## How to Access the Data
 
@@ -60,13 +62,27 @@ We then interpret the results and discuss potential reasons behind air quality t
 ## Dataset
 
 ### Key Features
+
 - **Global Coverage:** Data from thousands of stations worldwide.
 - **Pollutants Measured:** PM2.5, PM10, CO, NO2, SO2, O3, and more.
 - **Open and Free:** Available for educational and research purposes.
 
 ### Access the Data
+
 - **API Access:** Programmatic access to the data via OpenAQ API.
 - **Data Dumps:** Periodic data dumps available for download from the OpenAQ website or GitHub.
+
+## Contributers
+
+This was a combined collaborations between my group(Group one).
+The group members included:
+NAME                                                  ID NUMBER
+Snit Teshome                                            670552
+Whitney Gituara                                         671528
+Selmah Tzindori                                         669602
+Andy Hadulo                                             668059
+Ogutu Rufinus                                           670827
+Calvin Gacheru                                          670035
 
 ## Contributing
 
