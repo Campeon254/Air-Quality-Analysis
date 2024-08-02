@@ -74,7 +74,7 @@ We then interpret the results and discuss potential reasons behind air quality t
 
 ## Contributers
 
-This was a combined collaborations between my group(Group one).
+This was a combined collaborations between my group.
 The group members included:
 
 Snit Teshome,                                            670552
