@@ -1,5 +1,4 @@
 # Analyzing Global Air Quality Index (AQI) Data
-
 ## Overview
 
 This project analyzes the Air Quality Index (AQI) data from various cities around the world. The primary goals are to identify trends, compare air quality across different regions, and investigate the impact of certain events (like holidays, wildfires, or policy changes) on air quality. The project leverages Python's pandas for data manipulation, matplotlib and seaborn for data visualization, and sklearn for basic predictive modeling.
